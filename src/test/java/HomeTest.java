@@ -17,8 +17,8 @@ public class HomeTest extends TestBase{
 
        WebDriverWait wait =new WebDriverWait(TestBase.driver, Duration.ofSeconds(300));
         wait.until(ExpectedConditions.visibilityOf(homePage.btngetpaid));
-        homePage.clickOnGetPaidButton();
-        Assert.assertEquals(driver.getTitle(), "Levelset | We Help You Get Paid On Construction Jobs");
 
+        Assert.assertEquals(driver.getTitle(), "Levelset | We Help You Get Paid On Construction Jobs");
+        homePage.clickOnGetPaidButton();
     }
 }

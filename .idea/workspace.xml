@@ -6,11 +6,18 @@
   <component name="ChangeListManager">
     <list default="true" id="9644fa87-f960-4098-a57b-ab3fc70f5b41" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PageBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/NextTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/NextPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NextPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PageBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PageBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HomeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HomeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PageBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PageBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/HomeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/HomeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestBase.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
