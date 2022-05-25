@@ -7,13 +7,15 @@ public class NextPage extends  PageBase{
         super(driver);
     }
 
-
-    @FindBy(css = "div.step-title")
+    private static final  String DocXpath="//div[@class='left' and contains( text() ,'Release a Lien')]";
+    private  static  final String  btnXpath= DocXpath+"/following-sibling::div/child::span[@class=\"price-amount\"]" ;
+    @FindBy(xpath = DocXpath)
     WebElement assertNext;
 
 
-    @FindBy(css="span.price-amount")
+    @FindBy(xpath =btnXpath)
     WebElement priceElement;
+
 
 
 
